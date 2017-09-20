@@ -20,7 +20,7 @@ public class NavigationCtrl {
 	}
 
 	public String goToPage1(){
-		return "page 1";
+		return "page1";
 	}
 	
 	public String showPage(){

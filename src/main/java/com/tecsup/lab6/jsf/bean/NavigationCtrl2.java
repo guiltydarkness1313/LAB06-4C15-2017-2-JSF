@@ -15,11 +15,11 @@ public class NavigationCtrl2 implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	public String processPage1 () {
-		return "page";
+		return "page1";
 	}
 
 	public String processPage2 () {
-		return "page";
+		return "page2";
 	}
 
 }
